@@ -12,6 +12,7 @@ int main( void )
 	// Add your sentence.
 	// Don't forget to update the header file.
 	// vvvvvvvvvvvvvvvv STUDENT WORK HERE
+
 	snhqm9_sentence1();
 	shensSentence1();
 	mdsf3fSentence1();
@@ -19,8 +20,12 @@ int main( void )
 	rml3mdFirstSentence();
 	nicolasSmithsSentence1();
 	acmyfFirst();
+
+    yzghf();
+
 	szz63one();
 
+	sskgz8sentence1();
 
 	printf("\n\n");
 	snhqm9_sentence2();
@@ -30,7 +35,11 @@ int main( void )
 	mdsf3fSentence2();
 	shensSentence_FINAL();
 	acmyfSecond();
+
+    yzghf2();
+	sskgz8sentence_FINAL();	
 	szz63two();
+
 
 
 	// DO NOT ADD AFTER THIS COMMENT
