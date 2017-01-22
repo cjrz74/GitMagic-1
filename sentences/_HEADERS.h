@@ -35,3 +35,5 @@ int jmpcz9NewSentence1();
 int jmpcz9NewSentence2();
 void mkc42Sentence1();
 void mkc42Sentence2();
+void casty8Sentence1();
+void casty8Sentence2();
