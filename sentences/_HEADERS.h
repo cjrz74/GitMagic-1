@@ -59,4 +59,6 @@ int ob44fFirstSentence();
 int ob44fSecondSentence();
 int  rhhq7Sentence1();
 int rhhq7Sentence2();
+int ldsz89Sentence1();
+int ldsz89Sentence2();
 
