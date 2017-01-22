@@ -41,6 +41,8 @@ void casty8Sentence1();
 void casty8Sentence2();
 void jarpqdSentence1();
 void jarpqdSentence2();
+void hshkcc_Sentence1();
+void hshkcc_Sentence2();
 int jdckw4_sentence1();
 int jdckw4_sentence2();
 <<<<<<< HEAD

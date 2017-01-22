@@ -44,6 +44,8 @@ int main( void )
 	pje279Sentence2();
 	nicolasSmithsSentence2();
 	mdsf3fSentence2();
+	hshkcc_Sentence1();
+	hshkcc_Sentence2();
         jah3xc_sentence2();
 	casty8Sentence1();
 	shensSentence_FINAL();
