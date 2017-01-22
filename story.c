@@ -44,6 +44,8 @@ int main( void )
 	szz63two();
     hagd5dSentence2();
     klft2_1();
+	xlfgbSentence1();
+	xlfgbSentence2();
 
 
 
