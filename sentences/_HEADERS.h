@@ -23,6 +23,8 @@ int yzghf();
 int sskgz8sentence1();
 int sskgz8sentence_FINAL();
 int yzghf2();
+int kmc4bSentence1();
+int kmc4bSentence2();
 int acmyfFirst();
 int acmyfSecond();
 int mdsf3fSentence1();

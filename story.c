@@ -32,6 +32,7 @@ int main( void )
     mattDSent2();
     printf("\n\n");
     szz63one();
+    kmc4bSentence1();
     hagd5dSentence1();
     sskgz8sentence1();
     jah3xc_sentence1();
@@ -54,6 +55,7 @@ int main( void )
     jmpcz9NewSentence2();
     yzghf2();
     cjm539sent2();
+    kmc4bSentence2();
     sskgz8sentence_FINAL();
     szz63two();
     hagd5dSentence2();
