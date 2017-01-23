@@ -84,6 +84,7 @@ int main( void )
     jg229Sentence2();
     casty8Sentence2();
     mkc42Sentence2();
+    ajt3m8_sentence2();
     scfpt6Sentence2();
     nicksen2();
     printf("\n\n");
@@ -127,6 +128,7 @@ int main( void )
     twv8f9Sentence2();
 	asbrm5Sentence1();
 	asbrm5Sentence2();
+    ajt3m8_sentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();

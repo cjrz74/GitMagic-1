@@ -105,3 +105,5 @@ int apsrz4First();
 int apsrz4Second();
 int asbrm5Sentence1();
 int asbrm5Sentence2();
+int ajt3m8_sentence1();
+int ajt3m8_sentence2();
