@@ -23,6 +23,7 @@ int main( void )
     cgj6hb_sentence1();
     mdsf3fSentence1();
 	bcspq4sent1();
+	ddpfc2Sentence1();
 	bcspq4sent2();
     pje279Sentence1();
     rml3mdFirstSentence();
@@ -67,6 +68,7 @@ int main( void )
     cgj6hb_sentence2();
     pje279Sentence2();
     nicolasSmithsSentence2();
+	ddpfc2Sentence2();
     mdsf3fSentence2();
     jah3xc_sentence2();
     casty8Sentence1();
