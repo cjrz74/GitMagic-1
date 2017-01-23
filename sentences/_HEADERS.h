@@ -30,3 +30,5 @@ int hagd5dSentence1();
 int hagd5dSentence2();
 int klft2();
 int klft2_1();
+int xlfgbSentence1();
+int xlfgbSentence2();
