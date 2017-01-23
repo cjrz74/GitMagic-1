@@ -46,7 +46,8 @@ int main( void )
     yzghf();
     jdckw4_sentence1();
     mattDSent2();
-    cjan8cSentenceTwo();
+    cjan8cSentenceTwo();    
+    ltd2p8Sentence1();
 	kfjmbb_sentence1();
     printf("\n\n");
     szz63one();
@@ -80,7 +81,8 @@ int main( void )
     hagd5dSentence2();
     ob44fFirstSentence();
     klft2_1();
-    jg229Sentence2();
+    jg229Sentence2();    
+    ltd2p8Sentence2();
     casty8Sentence2();
     mkc42Sentence2();
     scfpt6Sentence2();

@@ -94,3 +94,5 @@ void rrsqp4sentence1();
 void rrsqp4sentence2();
 int jpfvx8Sentence1();
 int jpfvx8Sentence2();
+void ltd2p8Sentence1();
+void ltd2p8Sentence2();
