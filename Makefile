@@ -81,4 +81,3 @@ sskgz8.o: sentences/sskgz8.c
 #pawprint.o -  where is your .c derived object file? - where is your file?
 %.o : sentences/%.c
 	$(CC) -c -o $@ $<
-

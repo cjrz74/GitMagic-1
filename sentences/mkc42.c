@@ -9,5 +9,5 @@ void mkc42Sentence1()
 
 void mkc42Sentence2()
 {
-  printf("Beetoven with almost certain probability was of African Descent!\n");
+  printf("All of which I picked up from Fendi, it was on the house. \n");
 }
