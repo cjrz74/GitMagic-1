@@ -1,3 +1,4 @@
+
 #################################################
 # Makefile format
 # target: dependencies
@@ -35,7 +36,7 @@ TEST= (./story > the_story.txt); cat the_story.txt
 
 all: story
 
-test: 
+test:
 	@$(TEST)
 
 # -----------------------------------------------
