@@ -81,6 +81,8 @@ int main( void )
     hagd5dSentence2();
     ob44fFirstSentence();
     klft2_1();
+    jpfvx8Sentence1();
+    jpfvx8Sentence2();
     jg229Sentence2();
     casty8Sentence2();
     mkc42Sentence2();
