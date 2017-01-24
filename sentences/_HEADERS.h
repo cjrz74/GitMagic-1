@@ -126,4 +126,5 @@ int rmmpfbSentence1();
 int rmmpfbSentence2();
 int ajt3m8_sentence1();
 int ajt3m8_sentence2();
-
+int cehxc5First();
+int cehxc5Second();
