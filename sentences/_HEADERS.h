@@ -8,6 +8,8 @@ int bensSentence_FINAL();
 
 int cjan8cSentenceOne();
 int cjan8cSentenceTwo();
+int kac2z7Sentence1();
+int kac2z7Sentence2();
 int yqzn9_one();
 int yqzn9_two();
 int mtrmt9First();
