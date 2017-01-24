@@ -120,3 +120,5 @@ void mmjfz9sentence1();
 void zanSentenceOne();
 int rmmpfbSentence1();
 int rmmpfbSentence2();
+void wjft2dFirst();
+void wjft2dSecond();

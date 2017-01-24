@@ -64,6 +64,7 @@ int main( void )
     snhqm9_sentence2();
     rml3mdSecondSentence();
     cgj6hb_sentence2();
+    wjft2dFirst();
     pje279Sentence2();
     nicolasSmithsSentence2();
     mdsf3fSentence2();
@@ -74,6 +75,7 @@ int main( void )
     jmpcz9NewSentence2();
     yzghf2();
     cjm539sent2();
+    wjft2dSecond();
 	colejcsent2();
     sskgz8sentence_FINAL();
     szz63two();
