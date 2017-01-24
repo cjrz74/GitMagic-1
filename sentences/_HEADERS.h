@@ -17,6 +17,8 @@ int mtrmt9Second();
 int nicksen1();
 int nicksen2();
 int mattDSent1();
+int cdmhq5First();
+int cdmhq5Second();
 int mattDSent2();
 void cjm539sent1();
 void cjm539sent2();

@@ -29,6 +29,8 @@ int main( void )
     ajpt33First();
     nicolasSmithsSentence1();
     acmyfFirst();
+    cdmhq5First();
+    cdmhq5Second();
     mtrmt9First();
     crm4g3First();
     jarpqdSentence1();
