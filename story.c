@@ -14,6 +14,7 @@ int main( void )
     // vvvvvvvvvvvvvvvv STUDENT WORK H
 	snhqm9_sentence1();
     jtl378_sentence1();
+    cehxc5First();
     shensSentence1();
     snhqm9_sentence1();
     jtl378_sentence1();
@@ -185,6 +186,7 @@ wxqk3Sentence2();
 	casty8Sentence2();
 	mkc42Sentence2();
 	scfpt6Sentence2();
+	cehxc5Second();
 	adwcn6Sentence1();
 	apsrz4First();
 	adwcn6Sentence2();
