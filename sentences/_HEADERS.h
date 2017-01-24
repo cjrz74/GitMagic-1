@@ -80,6 +80,8 @@ void bcspq4sent1();
 void bcspq4sent2();
 int med43bSentence();
 int med43bSentence2();
+int cdw8b9First();
+int cdw8b9Second();
 int rhhq7Sentence1();
 int rhhq7Sentence2();
 int argkd61();
