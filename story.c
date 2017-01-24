@@ -51,6 +51,7 @@ int main( void )
     printf("\n\n");
     szz63one();
     hagd5dSentence1();
+    samsSentence1();
     cjan8cSentenceOne();
     sskgz8sentence1();
     mtrmt9Second();
@@ -130,6 +131,7 @@ int main( void )
 	rmmpfbSentence2();
 	apsrz4First();
 	apsrz4Second();
+	samsSentence2();
     // DO NOT ADD AFTER THIS COMMENT
     // Bens sentence should be last.
     bensSentence_FINAL();

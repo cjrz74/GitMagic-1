@@ -106,3 +106,5 @@ int asbrm5Sentence1();
 int asbrm5Sentence2();
 int rmmpfbSentence1();
 int rmmpfbSentence2();
+int samsSentence1();
+int samsSentence2();
