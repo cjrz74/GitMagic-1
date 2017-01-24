@@ -18,9 +18,11 @@ int main( void )
     snhqm9_sentence1();
     jtl378_sentence1();
     shensSentence1();
+    cdw8b9First();
     dwdb79_sentence1();
     jtl378_sentence2();
     cgj6hb_sentence1();
+    cdw8b9Second();
     mdsf3fSentence1();
 	bcspq4sent1();
 	bcspq4sent2();
