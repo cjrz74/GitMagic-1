@@ -13,6 +13,7 @@ int main( void )
     // Don't forget to update the header file.
     // vvvvvvvvvvvvvvvv STUDENT WORK H
 	snhqm9_sentence1();
+	kac2z7Setence1();
     jtl378_sentence1();
     shensSentence1();
     snhqm9_sentence1();
@@ -73,6 +74,7 @@ int main( void )
     casty8Sentence1();
     shensSentence_FINAL();
     acmyfSecond();
+	kac2z7Sentence2();
     jmpcz9NewSentence2();
     yzghf2();
     cjm539sent2();
